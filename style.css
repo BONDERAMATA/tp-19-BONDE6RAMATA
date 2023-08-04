@@ -1,0 +1,137 @@
+.minata{
+    display: none;
+   padding-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+.pap{
+    font-size: 20px;
+    /* border: 1px solid rgb(58, 82, 103); */
+    width: 230px;
+color: rgb(3, 3, 80);
+justify-content: center;
+ padding-top: 30px;
+}
+.papa{
+background-color: white;
+}
+.bonde{
+  border: none;  
+}
+body{
+    background-color: antiquewhite;
+}
+.mami{
+  text-align: center; 
+width: 500px;
+}
+.k{
+    box-shadow: 0 0 0 0;
+    outline: 0;
+    border: none;
+    border-bottom: 2px solid rgb(158, 135, 135);
+    
+    margin: 10px;
+}
+.maman{
+    margin-left: 300px;
+    border: 0px;
+    background-color: rgb(209, 152, 184);
+
+}
+.bi{
+    font-size: 15px;
+    color: darkgreen;
+    left: 50px;
+}
+.papou{
+    font-size: 25px;
+    color: darkolivegreen;
+}
+.lazar{
+    font-size: 20px;
+    color: darkgreen;
+}
+.ma{
+    margin-left: 100px;
+    border: 0px;
+    background-color: rgb(209, 152, 184);
+   
+}
+.komo{
+    margin-left: 100px;
+    border: 0px;
+    background-color: rgb(61, 123, 23);   
+}
+.loumane{
+    height: 100px;
+    width: 450px;
+    border: 0px;
+    border-bottom: 2px solid rgb(158, 135, 135);
+}
+.dha{
+    padding-left: 20px;
+}
+.kevine{
+   display: none; 
+}
+.dia{
+   display: none; 
+}
+.aboubakare{
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    text-align: center;
+    width: 100%;
+    /* background-color: blue; */
+   padding-left: 200px;
+   padding-right: 200px;
+}
+.bb{
+    
+}
+.man{
+    margin-left: 100px;
+    border: 0px;
+    background-color: rgb(209, 152, 184);
+   
+}
+@media screen and (max-width: 350px){
+.minata{
+        display: flex !important;
+        flex-direction: column !important;
+        
+    }
+    
+}
+@media screen and (max-width: 350px){
+    .papou{
+            font-size: 16px; 
+        margin-right: 200px;
+        }
+        
+    }
+    @media screen and (max-width: 350px){
+        .pap{
+                display: flex !important;
+                flex-direction: column ;
+                
+            }
+            
+        }
+        @media screen and (max-width: 350px){
+            .aboubakare{
+                    padding-left: 50px;
+                
+                }
+                
+            }
+            @media screen and (max-width: 350px){
+                .maman{
+                       margin-left: 200px;
+                    }
+                    
+                }
+            
+        
